@@ -9,6 +9,7 @@ npm run dev
 # or
 yarn dev
 ```
+This is a Next.js project created with `create-next-app`. It includes a development server, pre-configured API routes, and automatic font optimization with `next/font`. You can start editing the main page in `pages/index.tsx` and access API routes at `/api/*`. Deploy easily with Vercel for a seamless experience.
 
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
